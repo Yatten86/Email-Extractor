@@ -20,13 +20,14 @@ This project does not require any special packages or software. Just ensure you 
 ### Installation
 
 1. Clone the repo
+
 ```sh
 git clone https://github.com/Yatten86/email-extractor.git
-
+```
 2. Navigate to the project directory
 ```sh
 cd email-extractor
-
+```
 3. Open `index.html` file in your browser to start using the application
 
 ### Usage
@@ -36,7 +37,8 @@ cd email-extractor
 3. View the extracted email addresses in the second text area labeled "Extracted email addresses".
 4. The application will also display the total count of unique email addresses found.
 
-###Contact
-Petre Catalin - @petrecatalin2 - cosmoreddog@gmail.com
+### Contact
+Petre Catalin - www.linkedin.com/in/yatten - cosmoreddog@gmail.com
 
 Project Link: https://github.com/Yatten86/email-extractor
+
